@@ -1,3 +1,7 @@
+# DEPRECATED
+
+see https://developer.android.com/training/basics/intents/result
+
 # CoroutineActivityResult
 
 Android library for starting activity and get the result using kotlin coroutines.
